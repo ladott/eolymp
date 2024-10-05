@@ -1,0 +1,10 @@
+#Digits 
+
+n = int(input())
+n = str(n)
+
+counter = 0
+for i in n:
+    counter += 1
+
+print(counter)
